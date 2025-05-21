@@ -1,7 +1,7 @@
 const laguFavorit = [
   ["Alive", "Ichinose LUPO", "7.8M", "908k", "Alive.jpg", "song (0).mp3","vocals : Kagamine Rin"],
   ["Hello, Sekai", "Deco*27", "11M", "5.9M", "Hello, Sekai.jpg", "song (1).mp3","vocals : Hatsune Miku"],
-  ["Tell Your World", "Livetune", "2,28M", "517k", "Tell_YOur_World.jpg", "song (2).mp3","vocals : Hatsune Miku"],
+  ["Tell Your World", "Livetune", "4.8M", "1.7M", "Tell_YOur_World.jpg", "song (2).mp3","vocals : Hatsune Miku"],
 ];
 
 
